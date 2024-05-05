@@ -1,0 +1,30 @@
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\bin\Debug\NEWPRO.exe.config
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\bin\Debug\NEWPRO.exe
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\bin\Debug\NEWPRO.pdb
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\FootballManager.csproj.AssemblyReference.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\NEWPRO.Form1.resources
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\NEWPRO.Properties.Resources.resources
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\FootballManager.csproj.GenerateResource.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\FootballManager.csproj.CoreCompileInputs.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\NEWPRO.exe
+D:\תכנות מונחה עצמים\פרוייקט חדש\NEWPRO\NEWPRO\obj\Debug\NEWPRO.pdb
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\bin\Debug\NEWPRO.exe.config
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\bin\Debug\NEWPRO.exe
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\bin\Debug\NEWPRO.pdb
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\FootballManager.csproj.AssemblyReference.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\NEWPRO.Form1.resources
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\NEWPRO.Properties.Resources.resources
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\FootballManager.csproj.GenerateResource.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\FootballManager.csproj.CoreCompileInputs.cache
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\NEWPRO.exe
+D:\תכנות מונחה עצמים\פרוייקט חדש\FootballManager\NEWPRO\obj\Debug\NEWPRO.pdb
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.AssemblyReference.cache
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.GenerateResource.cache
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.Form1.resources
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.Properties.Resources.resources
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\bin\Debug\FootballManager.exe.config
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\bin\Debug\FootballManager.exe
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\bin\Debug\FootballManager.pdb
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.exe
+C:\Users\talbr\Desktop\FootballManager (1)\FootballManager\FootballManager\obj\Debug\FootballManager.pdb
